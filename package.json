@@ -1,10 +1,10 @@
 {
-  "name": "virteal",
-  "title": "Virteal",
-  "version": "0.1.0",
-  "homepage": "https://www.virteal.net",
-  "description": "The Virteal.net web",
-  "main": "gulpfile.js",
+  "name": "vanilla-cat-clicker-mvc",
+  "title": "Cat Clicker Premium Pro",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rbelow/vanilla-cat-clicker-mvc.git",
+  "description": "MVC study with cats and JavaScript",
+  "main": "",
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.18.8",
@@ -18,6 +18,6 @@
     "url": ""
   },
   "keywords": [],
-  "author": "Rubén Below",
+  "author": "",
   "license": ""
 }
