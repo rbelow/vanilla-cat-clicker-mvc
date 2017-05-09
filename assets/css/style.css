@@ -1,0 +1,16 @@
+li,
+img {
+    cursor:pointer;
+}
+
+img {
+    max-height: 460px;
+}
+
+button {
+  margin-right: 10px;
+}
+
+/*#catPanel {
+    display: none;
+}*/

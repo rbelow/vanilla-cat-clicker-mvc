@@ -1,0 +1,23 @@
+{
+  "name": "virteal",
+  "title": "Virteal",
+  "version": "0.1.0",
+  "homepage": "https://www.virteal.net",
+  "description": "The Virteal.net web",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Rubén Below",
+  "license": ""
+}
